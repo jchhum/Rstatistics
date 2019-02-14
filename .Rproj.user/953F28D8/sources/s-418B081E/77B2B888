@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1550158213453.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "77B2B888",
+    "lastKnownWriteTime" : 6,
+    "last_content_update" : 1550158213453,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "54905D89",
+        "caption" : "NatHealth2011",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=NatHealth2011&cache_key=54905D89",
+        "displayedObservations" : 33014,
+        "environment" : "",
+        "object" : "NatHealth2011",
+        "preview" : 0,
+        "totalObservations" : 33014,
+        "variables" : 36
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
